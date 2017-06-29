@@ -48,9 +48,7 @@ public class EducationTableViewCell: UITableViewCell {
   
   func initLabels() {
     titleLabel = BaseLabel()
-    print(1)
     titleLabel.font = UIFont.gothamProBold(size: 16)
-    print(2)
     addSubview(titleLabel)
     titleLabel.anchor(
       leading: circleView.trailingAnchor,
