@@ -1,4 +1,4 @@
-# Apple WWDC17 Submission
+# Apple WWDC17 Scholarship submission
 
 *Accepted*
 
