@@ -59,9 +59,7 @@ public class MainViewController: BaseViewController {
   }
   
   func menuButtonTapped(button: GothamButton) {
-    guard button.frame.height > 1 else { // checks if already tapped (btw, very thin to tap)
-      return
-    }
+    button.isEnabled = false
     let nextViewController: UIViewController
 
     switch ButtonTitle(rawValue: button.fixedTitle)! { // imagine it's safe
