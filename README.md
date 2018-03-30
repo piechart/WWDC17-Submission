@@ -8,6 +8,8 @@ This year task was to create a visually interactive scene in a Swift playground 
 I simply made a self-describing playground which included such aspects of my life as skills, education, hobbies and projects I've made.
 Submission had to have not only a playground in it, but few essays about sharing the knowledge I'm going to receive and motivation too.
 
+**Swift 3, Xcode 8**
+
 Speaking of technologies used, my playground is based on **UIKit**.
 * **CoreAnimation** is also used a lot.
 * Some things are made with **QuartzCore**
